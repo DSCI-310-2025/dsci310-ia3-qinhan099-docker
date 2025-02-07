@@ -1,0 +1,11 @@
+name: condalock
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - conda-lock
+  - pandas
+  - pandera
+  - python=3.11
+prefix: /Users/han/miniconda3/envs/condalock
